@@ -4,4 +4,4 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--paolom-reynoldsamerican-130325--aemdemos.aem.live/
-- After: https://<branch>--paolom-reynoldsamerican-130325--aemdemos.aem.live/
+- After: https://main--paolom-reynoldsamerican-130325--aemdemos.aem.live/
